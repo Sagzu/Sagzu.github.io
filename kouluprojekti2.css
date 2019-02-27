@@ -34,7 +34,6 @@
 
 .container-fluid2{
 	list-style-type:none;
-	margin-top:15px;
 	padding-left:100px;
 	font-size:24px;
 	border-top:2px solid white;
@@ -61,11 +60,8 @@
 }
 
 #paragh2{
-	padding:30px;
 	background-color:#999;
 	padding:30px;
-	margin-left:30px;
-	margin-right:30px;
 	float:right;
 	border:2px solid white;
 	
@@ -73,10 +69,12 @@
 
 li a{
 	color:white;
+	margin-top:5px;
 	padding:4px;
-	margin:16px;
 	text-align:center;
 	text-decoration:none;
+	float:left;
+	background-color: black;
 }
 
 li a:hover{
@@ -94,11 +92,8 @@ body{
 	padding:2px;
 	padding-top:5px;
 	padding-bottom:5px;
-	padding-left:30px;
-	padding-right:px;
+	padding-left:10px;
 	background-color:#999;
-	margin-right:30px;
-	margin-left:30px;
 	border:2px solid white;
 	
 }
